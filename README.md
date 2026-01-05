@@ -21,29 +21,7 @@ Dataset link:
 https://www.kaggle.com/datasets/maternusherold/pred-maintanance-data
 
 ---
-
-## Project Structure
-predictive-maintenance-rnn/
-│
-├── README.md
-├── requirements.txt
-├── .gitignore
-│
-├── data/
-│   └── raw
-│     └── PM_test.txt
-│     └── PM_train.txt
-│     └── PM_truth.txt
-│
-├── notebooks/
-│   └── predictive_maintenance_rnn.ipynb
-│
-├── models/
-│   └── rnn_model.keras
-│
-└── results/
-    └── plots/
-
+```
 ## Repository Structure
 
 predictive-maintenance-rnn/
@@ -59,4 +37,5 @@ predictive-maintenance-rnn/
 │   └── predictive_maintenance_rnn.ipynb
 └── models/
     └── rnn_model.keras
+```
 
