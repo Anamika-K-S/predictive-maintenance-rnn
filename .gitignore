@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (optional, if you want to keep dataset out)
+# data/raw/
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# TensorFlow/Keras models (optional if you want to ignore large files)
+# models/*.keras
+
+# OS files
+.DS_Store
+Thumbs.db
